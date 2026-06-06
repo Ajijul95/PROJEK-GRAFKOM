@@ -195,4 +195,3 @@ File yang berkaitan:
 10. Ketika tombol Pause ditekan, kendaraan berhenti sementara di posisi terakhir.
 11. Ketika tombol Start ditekan kembali, kendaraan melanjutkan animasi dari posisi terakhir.
 
-```
