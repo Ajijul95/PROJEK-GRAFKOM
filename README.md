@@ -1,4 +1,4 @@
-# Project PAA/Grafika Komputer - Peta Kota 2D, Dijkstra, Zoom, Scroll, dan Animasi Kendaraan
+# Project Grafika Komputer - Peta Kota 2D, Dijkstra, Zoom, Scroll, dan Animasi Kendaraan
 
 Project ini merupakan aplikasi simulasi peta kota 2D berbasis Python Tkinter. Program menampilkan struktur peta kota, jaringan jalan, pencarian rute menggunakan algoritma Dijkstra, navigasi tampilan peta, fitur zoom, serta animasi kendaraan yang dapat dikontrol menggunakan tombol Start dan Pause.
 
