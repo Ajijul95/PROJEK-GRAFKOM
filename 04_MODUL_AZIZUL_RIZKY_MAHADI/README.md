@@ -2,7 +2,7 @@
 
 **Penanggung jawab:** Azizul Rizky Mahadi
 
-**Bagian tugas:** Sistem pencarian rute dan pengaturan posisi awal serta tujuan.
+**Bagian tugas:** Sistem pencarian rute dan pengaturan posisi awal serta tujuan. 
 
 ## Isi folder
 - `source_full/` berisi file kode lengkap yang berhubungan dengan bagian ini.
