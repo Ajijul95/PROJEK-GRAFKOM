@@ -1,6 +1,6 @@
 # 02_MODUL_FARHAN_DWI_SAPUTRA_NAVIGASI_SCROLL_PETA
 
-**Penanggung jawab:** Farhan Dwi Saputra
+**Penanggung jawab:** Farhan Dwi Saputra 
 
 **Bagian tugas:** Sistem navigasi peta, khususnya fitur pergeseran tampilan / scroll / pan.
 
